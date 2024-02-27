@@ -2,7 +2,7 @@
 session_start();
 error_reporting(0);
 // llamar ala conexión de base de datos
-include 'includes/conexion.php';
+include 'includes/conexion.phps';
 $result=false;
 $c=0;
 
